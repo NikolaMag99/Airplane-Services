@@ -6,5 +6,5 @@ Spring Boot application built with microservice architecture. Zuul as an API gat
 # Features
 - User and administrator accounts
 - Asynchronous communication between services
-- JWT authentication
 - E-mail notifications
+- JWT authentication
